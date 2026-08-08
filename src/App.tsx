@@ -1,6 +1,5 @@
 import { AnimatedBackground, type ThemeKey } from '@/components/AnimatedBackground';
 import { AmbientOverlay } from '@/components/AmbientOverlay';
-import { CursorGlow } from '@/components/CursorGlow';
 import { LoadingScreen } from '@/components/LoadingScreen';
 import { MusicToggle } from '@/components/MusicToggle';
 import { PageTransition } from '@/components/PageTransition';
